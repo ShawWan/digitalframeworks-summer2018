@@ -23,6 +23,7 @@ http://www.pewglobal.org/2018/05/10/number-of-foreign-college-students-staying-a
 https://www.washingtonpost.com/national/how-trump-is-changing-the-face-of-legal-immigration/2018/07/02/477c78b2-65da-11e8-99d2-0d678ec08c2f_story.html?utm_term=.e87a422aa25f (visualization: https://github.com/wpinvestigative/immigrant_visas)
 
 3. Critiques
+ [link text]https://www.washingtonpost.com/national/how-trump-is-changing-the-face-of-legal-immigration/2018/07/02/477c78b2-65da-11e8-99d2-0d678ec08c2f_story.html?utm_term=.e87a422aa25f
 
 **Objective: Clarity and accuracy**
 
@@ -113,7 +114,7 @@ Are female journalists more targeted in the work field? What makes them targets 
 https://www.aljazeera.com/news/2017/12/rsf-65-journalists-killed-worldwide-2017-171219071005741.html
 
 3. Critique
-
+ [link text]https://www.aljazeera.com/news/2017/12/rsf-65-journalists-killed-worldwide-2017-171219071005741.html
 **Objective: Clarity and accuracy**
 
 * Were you able to immediately identify the central insight the reporter was trying to communicate? Answer on a 1-5 scale, with 5 being excellent and 1 being below expectations. 
