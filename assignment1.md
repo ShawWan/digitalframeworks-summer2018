@@ -30,41 +30,31 @@ https://www.washingtonpost.com/national/how-trump-is-changing-the-face-of-legal-
 * Were you able to immediately identify the central insight the reporter was trying to communicate? Answer on a 1-5 scale, with 5 being excellent and 1 being below expectations.   
    * What was it?  
    * Was it in the headline?  
-
-4  
-The story is about immigration declines among nationalities due to Trump's immigration policies. The headline includes the key word "immigration", but it does not imply the decline of legal visas.  
+4-The story is about immigration declines among nationalities due to Trump's immigration policies. The headline includes the key word "immigration", but it does not imply the decline of legal visas.  
 
 * Were you able to quickly understand how you would navigate the data? Again, use a 5- point scale with 5 = excellent  
    * Was that the most efficient way to navigate?   
    * Can you suggest ways to improve navigation?  
-
-2  
-The most efficient way is to put charts in the beginning of the story, accompanied by explanations, instead of sentences of description alone. 
+2-The most efficient way is to put charts in the beginning of the story, accompanied by explanations, instead of sentences of description alone.   
 The story should have more charts to go with the most data, such as in the beginning "The number of people receiving visas to move permanently to the United States is on pace to drop 12 percent in President Trump’s first two years in office, according to a Washington Post analysis of State Department data," we can have a chart with the annual number of people receiving visas and highlight those years when Trump was in office. And the first chart about travel ban should be moved up to go with "Among the most affected are the Muslim-majority countries on the president’s travel ban list." Since the authors put an emphasis on demographics, we can also have a map indicating the differences or similarities between countries influenced by travel ban and countries suffered from other policies.
 
 * Using your own knowledge and critical thinking abilities, do you think the data was accurate? 1-5, with 5 most accurate
    * List any areas where you question the accuracy of the data.
    * List sources you would suggest the reporter check with. 
    * Did they provide a source?
-   * Did they explain everything that needed explaining?
-
-5  
-It uses round numbers based on the statistics by the State Department and it attaches the source below charts. I like the first chart where it shows the significance of numbers by adding the "average of Muslim-majority countries." This added criterion helps me understand how situation worsened for immigrants from Muslim countries under Trump's administration.  
+   * Did they explain everything that needed explaining?  
+5-It uses round numbers based on the statistics by the State Department and it attaches the source below charts. I like the first chart where it shows the significance of numbers by adding the "average of Muslim-majority countries." This added criterion helps me understand how situation worsened for immigrants from Muslim countries under Trump's administration.  
 
 **Objective: Quality**
 
 * Regardless of the form that the graphic/story takes, was it executed at a high degree of quality? (Rank 1-5, with five excellent.)
-   * Explain what they did well and areas where improvements could be made. 
-   
-3  
-They does a good job in comparing the situation with normal situations to get readers a sense how immigration circumstances are on a decline in Trump's administration. 
+   * Explain what they did well and areas where improvements could be made.   
+3-They does a good job in comparing the situation with normal situations to get readers a sense how immigration circumstances are on a decline in Trump's administration. 
 
 * Consider some tasks a data story must do well: (present, compare, organize, correlate)
    * Did this graphic accomplish all tasks?
-   * If not, which ones did it not accomplish
-   
-2  
-This graphic does a great job in comparison. But it does not accompany information provided by the story well. It is not very organized with only three charts arranged randomly.   
+   * If not, which ones did it not accomplish   
+2-This graphic does a great job in comparison. But it does not accompany information provided by the story well. It is not very organized with only three charts arranged randomly.   
 
 **Objective: Type and color (if piece includes graphics)**
 
@@ -72,32 +62,23 @@ This graphic does a great job in comparison. But it does not accompany informati
    * For example, did it: 
        * Look like it all belonged together?
        * Draw your eye first to the most important pieces of information?
-       * Make sense? For example, if it discussed heat, did it use the color red to communicate the degree of heat rather than, say, blue?
-
-3  
-It uses the sans serif font to tell a clear story. But colors are not consistent though out the story.
+       * Make sense? For example, if it discussed heat, did it use the color red to communicate the degree of heat rather than, say, blue?  
+3-It uses the sans serif font to tell a clear story. But colors are not consistent though out the story.
 
 * Type (1-5)
-   * Explain
+   * Explain  
+2-It only has bar charts, without such as maps to show geographical elements or line charts to show how visa holders declined.
 
-2  
-It only has bar charts, without such as maps to show geographical elements or line charts to show how visa holders declined.
-
-*Color (1-5)
-   * Explain
-
-2  
-The color varies in three charts. It could use either red (to indicate how dangerous the situation is) or blue (to say it's on a decline which makes people sad).
+* Color (1-5)
+   * Explain  
+2-The color varies in three charts. It could use either red (to indicate how dangerous the situation is) or blue (to say it's on a decline which makes people sad).
    
 **Objective: Creativity**
 
 * Did the piece use some creative elements to good effect? As in, to emphasize those areas that could draw someone in, or to add detail where needed, but not just random visual or story junk that distracts you?
    * How?
-   * Rate effectiveness on scale of 1-5. 
-
-2  
-The print story is well informative with many details. However, the data story is weak to tell a story on its own or to provide explanations to the print. Nor does it has any creativity.
-
+   * Rate effectiveness on scale of 1-5.  
+2-The print story is well informative with many details. However, the data story is weak to tell a story on its own or to provide explanations to the print. Nor does it has any creativity.
 
 ## Story idea 2
 
@@ -120,46 +101,35 @@ https://www.aljazeera.com/news/2017/12/rsf-65-journalists-killed-worldwide-2017-
 
 * Were you able to immediately identify the central insight the reporter was trying to communicate? Answer on a 1-5 scale, with 5 being excellent and 1 being below expectations. 
    * What was it?
-   * Was it in the headline?
-
-5  
-It's an analysis about journalists killed last year, from perspectives such as gender, location, reasons, trend.
+   * Was it in the headline?  
+5-It's an analysis about journalists killed last year, from perspectives such as gender, location, reasons, trend.
 By reading the headline, readers can easily understand that it's about journalists killed last year.
 
 * Were you able to quickly understand how you would navigate the data? Again, use a 5- point scale with 5 = excellent
    * Was that the most efficient way to navigate? 
-   * Can you suggest ways to improve navigation?
-
-4  
-In the beginning of the video, a pie chart illustrates the general picture of journalists killed, detained, missing last year. The voiceover explains how women journalists were targeted, why the number in general declined and what the dangerous places are. 
+   * Can you suggest ways to improve navigation?  
+4-In the beginning of the video, a pie chart illustrates the general picture of journalists killed, detained, missing last year. The voiceover explains how women journalists were targeted, why the number in general declined and what the dangerous places are. 
 One way to improve is to have probably more charts to go with the voiceover, such as the gender difference and have subtitles underneath.
 
 * Using your own knowledge and critical thinking abilities, do you think the data was accurate? 1-5, with 5 most accurate
    * List any areas where you question the accuracy of the data.
    * List sources you would suggest the reporter check with. 
    * Did they provide a source?
-   * Did they explain everything that needed explaining?
-
-5  
-The video uses data from the report by Reporters Without Borders. It covers demographics, gender, reasons and locations, which is very comprehensive for readers to understand the media situation for journalists.
+   * Did they explain everything that needed explaining?  
+5-The video uses data from the report by Reporters Without Borders. It covers demographics, gender, reasons and locations, which is very comprehensive for readers to understand the media situation for journalists.
 
 **Objective: Quality**
 
 * Regardless of the form that the graphic/story takes, was it executed at a high degree of quality? (Rank 1-5, with five excellent.)
-   * Explain what they did well and areas where improvements could be made. 
-   
-4  
-Instead of still charts, data is shown in an animated video. It's good to see movements but I hope they can also have still charts in the story in case some readers who don't watch the video would miss those numbers.
+   * Explain what they did well and areas where improvements could be made.     
+4-Instead of still charts, data is shown in an animated video. It's good to see movements but I hope they can also have still charts in the story in case some readers who don't watch the video would miss those numbers.
 
 * Consider some tasks a data story must do well: (present, compare, organize, correlate)
    * Did this graphic accomplish all tasks?
-   * If not, which ones did it not accomplish
-
-4  
-The quality of video should be improved. Some shots are quite clear, such as the standups; others are quite blurred. It's understandable that shots from the war may not be as clear, but we should at least try to do the best.
+   * If not, which ones did it not accomplish  
+4-The quality of video should be improved. Some shots are quite clear, such as the standups; others are quite blurred. It's understandable that shots from the war may not be as clear, but we should at least try to do the best.
 The chart I enjoyed most is when it talks about countries that imprison journalists. It's an animated world map with numbers and regions appear one by one. The font size and the order shows that it wants readers to know that China is the country that arrests most journalists without clear reasons.  
 The one point deducted is I wish it can have a chart when it talks about women journalists being targeted.
-
 
 **Objective: Type and color (if piece includes graphics)**
 
@@ -167,30 +137,20 @@ The one point deducted is I wish it can have a chart when it talks about women j
    * For example, did it: 
        * Look like it all belonged together?
        * Draw your eye first to the most important pieces of information?
-       * Make sense? For example, if it discussed heat, did it use the color red to communicate the degree of heat rather than, say, blue?
-
-4  
-Because it uses the same fonts and color, the lower thirds and charts go well with each other. The voiceover helps explain what numbers mean, when viewers can use hearing and visual senses together. I wish I could know that data is imbedded in the video when nothing else visual is in the print story. If viewers don't click the video, they would miss part of the story.
+       * Make sense? For example, if it discussed heat, did it use the color red to communicate the degree of heat rather than, say, blue?  
+4-Because it uses the same fonts and color, the lower thirds and charts go well with each other. The voiceover helps explain what numbers mean, when viewers can use hearing and visual senses together. I wish I could know that data is imbedded in the video when nothing else visual is in the print story. If viewers don't click the video, they would miss part of the story.
 
 * Type (1-5)
-   * Explain
+   * Explain    
+5-Viewers can find different font sizes with implication of emphasis. It also uses sans serif fonts.
 
-5  
-Viewers can find different font sizes with implication of emphasis. It also uses sans serif fonts.
-
-
-*Color (1-5)
-   * Explain
-
-5  
-As it's produced by Aljazeera, it uses different shades of orange. The most dangerous places are in the darkest color.
-
-   
+* Color (1-5)
+   * Explain  
+5-As it's produced by Aljazeera, it uses different shades of orange. The most dangerous places are in the darkest color.
+ 
 **Objective: Creativity**
 
 * Did the piece use some creative elements to good effect? As in, to emphasize those areas that could draw someone in, or to add detail where needed, but not just random visual or story junk that distracts you?
    * How?
-   * Rate effectiveness on scale of 1-5. 
-
-3  
-I've seen videos where one soldier figure or one dot represents 10 people to simplify the image, where more animation is added to get it vivid. This story does a good job putting charts, voiceover, soundbites, videos from war zones, still pictures together, but it's not very creative.
+   * Rate effectiveness on scale of 1-5.   
+3-I've seen videos where one soldier figure or one dot represents 10 people to simplify the image, where more animation is added to get it vivid. This story does a good job putting charts, voiceover, soundbites, videos from war zones, still pictures together, but it's not very creative.
