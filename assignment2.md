@@ -1,7 +1,7 @@
 # Assignment 2
 Due date: July 18, 6 p.m.
 
-1. Although the number of journalists killed declined from 2016, that of female journalists reached the highest since 2009, according to a report by the Committee to Protect Journalists in 2017. The rate of victimized female journalists more than doubled. Why was 2017 especially a dangerous year for female journalists? Was it because women journalists were targeted because of their gender? I am curious about the biggest contributor of this situation.
+1. Although the number of journalists killed declined from 2016, that of female journalists reached the highest since 2009, according to a report by the Committee to Protect Journalists in 2017. The rate of victimized female journalists more than doubled. Why was 2017 especially a dangerous year for female journalists? Was it because women journalists were targeted because of their gender? I am curious about the biggest contributor to this situation.
 
 2. A list of the things you want to know about any data point:  
 * Year (Data needs to be collected from at least 16 and 17. 18 can also be included),   
