@@ -29,7 +29,7 @@ https://www.washingtonpost.com/national/how-trump-is-changing-the-face-of-legal-
 
 * Were you able to immediately identify the central insight the reporter was trying to communicate? Answer on a 1-5 scale, with 5 being excellent and 1 being below expectations.   
    * What was it?  
-   * Was it in the headline?  
+   * Was it in the headline?
 4-The story is about immigration declines among nationalities due to Trump's immigration policies. The headline includes the key word "immigration", but it does not imply the decline of legal visas.  
 
 * Were you able to quickly understand how you would navigate the data? Again, use a 5- point scale with 5 = excellent  
