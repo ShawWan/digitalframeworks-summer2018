@@ -14,9 +14,10 @@ Due date: July 18, 6 p.m.
 * location of death (Is there a place more dangerous for female journalists than male journalists?),   
 * gender,   
 * country of origin( Are women journalists from a certain origin more likely to be killed?) ,   
-* story about her death (more details about the reason why they died).  
+* religion (Were they killed because of their religious beliefs?), 
+* story about the death (more details about the reason why they died).  
 
-3. I've found several organizations that have published databases on the topic "journalists killed," including the Committee to Protect Journalists (CPJ), the International News Safety Institute, the International Federation of Journalists, UNESCO’s Intergovernmental Program for the Development of Communication and Reporters Without Borders. The problem is each of them has their own criteria in terms of who is a journalist or how journalists are confirmed dead. I will choose one as the base of my database and ask them for more information. The contact information of CPJ is 212-465-1004 and info@cpj.org. For the story of journalists, I will search them one by one. 
+3. I've found several organizations that have published databases on the topic "journalists killed," including the Committee to Protect Journalists (CPJ), the International News Safety Institute, the International Federation of Journalists, UNESCO’s Intergovernmental Program for the Development of Communication and Reporters Without Borders. The problem is each of them has their own criteria in terms of who is a journalist or how journalists are confirmed dead. I will choose one as the base of my database and ask them for more information. The contact information of CPJ is 212-465-1004 and info@cpj.org. For the religion and stories about their death, I will search them one by one. 
 
 4. The table   
 https://docs.google.com/spreadsheets/d/1B_lNcNcVcKaqCHIrz2ZH55hGiA3blmTUR4-iuB2hthc/edit?usp=sharing
