@@ -1,4 +1,4 @@
-I want to analyze why more and more Indian and China students, especially who have master degree, left the States after graduation? This is newsworthy because it shows the mobility trend of high skilled workers and the reason behind that. Last year saw the largest decline in the annual growth rate of foreign college graduates staying in U.S. to work. The reason can be political or economic.  
+I want to analyze why more and more Indian and China students, especially who have master degree, left the States after graduation. This is newsworthy because it shows the mobility trend of high skilled workers and the reason behind that. Last year saw the largest decline in the annual growth rate of foreign college graduates staying in U.S. to work. The reason can be political or economic.  
 
 I will obtain the number of OPT, STEM, H1B approvals through U.S. Immigration and Customs Enforcement via a public records request. If that takes time, I will also ask Pew Research Center for the data they have. To figure out the reason for the loss, I will ask around among Chinese and Indian graduates, and ask for government data, such as unemployment rates, accordingly.  
 
