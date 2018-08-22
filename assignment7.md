@@ -11,9 +11,9 @@ Note: All donations went to two organizations: Act Blue and Earmark for Bernie 2
 Note: I didn’t find any donation from Danielle Bernard under the organization LIRS. However, I checked her profile and found that she worked as senior assistant director of digital communications in New York University from December 2012 to August 2017, before she started her job at LIRS. For all records under the name of Danielle Bernard, the two from 2015 to 2016 can be confirmed to be the one at LIRS now, based on her LinkedIn page. Two results from Dec. 9, 2017 are under an unemployed Danielle Bernard, which should not be the one I am looking at. 
 4.	For the LIRS file:
 Made a pivot table with year, contribution recipient amount and contributor name to know the account of donators and the sum of donations each year and altogether.
-5.	Integrated two files into one named “LIRS all” and repeated step4
+5.	Integrated two files into one named “LIRS all” and repeated step4 . 
 
-*Head*: Unaccompanied alien children’s foster care center accused HHS for irresponsibility
+**Head**: Unaccompanied alien children’s foster care center accused HHS for irresponsibility 
 
-*Nut graph*: Lutheran Immigration and Refugee Service (LIRS), a government contracted organization for separated immigrant children, wished its government partner U.S. Health & Human Services (HHS) “could have done more” for these kids. 
+**Nut graph**: Lutheran Immigration and Refugee Service (LIRS), a government contracted organization for separated immigrant children, wished its government partner U.S. Health & Human Services (HHS) “could have done more” for these kids. 
 The LIRS, in favor of immigrants’ rights, has always been a support for democrats. Nine employees over the past seven years have donated 17 times, around 700 dollars for the Democratic Party.
