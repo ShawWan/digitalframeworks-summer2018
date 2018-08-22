@@ -3,7 +3,7 @@ I found Lutheran Immigration and Refugee Service (LIRS), a government contracted
 During the interview for the story about unaccompanied alien children, Danielle Bernard, the communications manager of LIRS criticized U.S. Health & Human Services (HHS) for not taking enough actions to take care of unaccompanied alien children. She also spoke against President Trump's "zero tolerance" immigration policy. However, as LIRS is a government funded agency, I wondered if what she said was true, or it was just her personal opinion. 
 
 I took the following steps to verify my suspect:
-1.	Searched the FEC website for donations in 2011- 2018 election cycle from employees of "Lutheran Immigration".  
+1.	Searched the FEC website for donations in 2011- 2018 from employees of "Lutheran Immigration".  
 Note: When I input “Lutheran Immigration and Refugee Service”, no results popped up. But when I did “Lutheran Immigration,” results about the same organization came out.   
 2.	Exported and integrated those results into one CVS file named "LIRS".  
 Note: All donations went to two organizations: Act Blue and Earmark for Bernie 2016. The former supports democrats and the latter supports Senator Bernie Sanders, who returned to the Senate as an independent and endorsed Clinton in 2016.  
